@@ -85,7 +85,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     35. How often should I commit to github?
         relatively regularly. after writing a chunk of code that we know works well.
     36. What is the command we would use to push our repo up to github? 
-        push -u orgin branch-name
+        push -u origin branch-name
     37. Walk me through Lambda's git flow. 
         fork it, add your collaborators, clone it, create your own branch, work it, push it back up to github, open a pull request, add your tl to the reviewers and then submit your pull request
 
